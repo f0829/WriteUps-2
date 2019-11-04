@@ -2,7 +2,7 @@
 * [2019.10.13 **RoarCTF 2019** ][2]
 * [2019.10.12 **RootersCTF 2019** ][3]
 * [2019.10.12 **极客巅峰线上赛 2019** ][4]
-* * [2019.10.12 **河北师范大学信息安全挑战赛 2019** ][5]
+* [2019.10.12 **河北师范大学信息安全挑战赛 2019** ][5]
 
 [1]: https://github.com/n132/WriteUps/tree/master/2019_ByteCTF
 [2]: https://github.com/n132/WriteUps/tree/master/2019_Roarctf
